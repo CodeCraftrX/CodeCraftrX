@@ -7,28 +7,28 @@ I am Abheesht Reddy Yanamala, a results-driven software engineer with a Master's
 
 ## ⚙️ Skills
 **Programming Languages:**
-- Java, Python, C, C++, JavaScript, TypeScript, PHP, SQL, Linux
+- Java, Python, C, C++, JavaScript, TypeScript, PHP, SQL
 
 **Frontend Development:**
-- React.js, Angular, HTML5, CSS3, IntelliJ IDEA, Visual Studio Code, Postman (API Testing)
+- React.js, Angular, HTML5, CSS3, Visual Studio Code
 
 **Backend Development:**
-- Spring Boot, Node.js (Express), RESTful API design, Swagger/OpenAPI documentation, JSON, JWT authentication, Git, GitHub, Docker, Kubernetes, CI/CD Pipelines, Jenkins, AWS (EC2, S3, Lambda), GCP, Azure
+- Spring Boot, RESTful API design, Microservices, Swagger/OpenAPI documentation, JSON, JWT authentication, Git, GitHub, Docker, Kubernetes, CI/CD Pipelines, Jenkins, Postman (API Testing), Unit Testing(JUnit, Mockito, PowerMock)
 
 **Databases:**
-- PostgreSQL, MySQL, MongoDB, Redis
-
-**AI & Machine Learning:**
-- Natural Language Processing, Pandas, Scikit-learn, Numpy
+- Relational (Oracle, MySQL, PostgreSQL) , NoSQL(MongoDB), Caching (Redis, SpringBootCache)
   
 **Web Technologies & Frameworks:**
-- Spring, Spring Boot, React, Angular, Mockito, Maven, Spark, Kafka, OAuth2.0, Hibernate, Microservices
+- Spring, Spring Boot, React, Angular, Mockito, Maven, Kafka, OAuth2.0, Hibernate, Microservices
 
 **Cloud Platforms:**
 - AWS (EC2, S3, Lambda, RDS, API Gateway, EKS, CloudWatch, SNS, SQS, IAM, Route53, DynamoDB, ELB)
 
 **DevOps/CI-CD:**
-- Docker, Kubernetes, Jenkins, Git, Bitbucket, Terraform, Grafana, Dynatrace, Swagger, SonarQube, Jira, Postman
+- Docker, Kubernetes, Jenkins, Git, Bitbucket, Grafana, Dynatrace, Swagger, SonarQube, Jira, Postman
+
+**AI & Machine Learning:**
+- Natural Language Processing, Pandas, Scikit-learn, Numpy, Geo Pandas
 
 ## 🚀 Projects
 **E-Commerce Customer Data Management System**
