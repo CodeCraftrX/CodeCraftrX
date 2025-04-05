@@ -70,3 +70,8 @@ Feel free to connect with me for collaborations or discussions!
 🔗 LinkedIn: https://www.linkedin.com/in/AbheeshtReddy
 
 🔗 Portfolio: https://Abheesht.Portfolio
+
+
+## 🏆 Achievements
+- Recognized with Star Performer Award at Cognizant for implementing AWS services and resolving critical migration challenges
+- Honored with Best Innovation Award at TMForum’s Catalyst Program for building an advanced 5G Digital Marketplace platform
