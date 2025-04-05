@@ -1,7 +1,5 @@
 # Hi there, I'm Abheesht Reddy Yanamala 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with expertise in software development, cloud computing, and AI.
-
 ## 📜 About Me
 I am Abheesht Reddy Yanamala, a results-driven software engineer with a Master's degree in Computer Science from Georgia State University. I have worked with various companies, developing scalable applications, optimizing microservices, and streamlining CI/CD pipelines.
 
