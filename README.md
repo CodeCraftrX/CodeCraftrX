@@ -65,6 +65,6 @@ I am Abheesht Reddy Yanamala, a results-driven software engineer with a Master's
 ## 📩 Connect with Me
 Feel free to connect with me for collaborations or discussions!
 
-- 📧 Email: yanamalaabheeshtreddy@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/AbheeshtReddy)
-- 🔗 [Portfolio](https://Abheesht.Portfolio)
+📧 Email: yanamalaabheeshtreddy@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/AbheeshtReddy
+🔗 Portfolio: https://Abheesht.Portfolio
