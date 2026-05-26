@@ -599,7 +599,7 @@
     const observerOptions = {
       root: null,
       rootMargin: "0px",
-      threshold: 0.1
+      threshold: 0.12
     };
 
     const observer = new IntersectionObserver((entries, observer) => {
@@ -611,9 +611,25 @@
       });
     }, observerOptions);
 
-    document.querySelectorAll(".animated-path").forEach(path => {
-      observer.observe(path);
+    // Observe timeline paths, whole resume sections and project cards so
+    // they animate into view when scrolled.
+    document.querySelectorAll(".animated-path, .resume-section, .project-card").forEach(el => {
+      observer.observe(el);
     });
+
+    // Navbar scrolled state: add a subtle backdrop and shadow when page is scrolled
+    const sideNavEl = document.getElementById('sideNav');
+    function updateNavScrolled() {
+      if (!sideNavEl) return;
+      if (window.scrollY > 48) {
+        sideNavEl.classList.add('scrolled');
+      } else {
+        sideNavEl.classList.remove('scrolled');
+      }
+    }
+    window.addEventListener('scroll', updateNavScrolled, { passive: true });
+    // Run once on load to set initial state
+    updateNavScrolled();
   });
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TY0X27QHW2"></script>

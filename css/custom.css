@@ -1369,6 +1369,36 @@ section h1,
     }
 }
 
+/* Ensure project cards animate into view when observed (override earlier duplicates) */
+.project-card {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 420ms ease, transform 420ms ease;
+}
+.project-card.visible {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* Navbar scrolled state for improved clarity on long pages */
+#sideNav.scrolled {
+  background: linear-gradient(180deg, rgba(0,0,0,0.45), rgba(0,0,0,0.3));
+  box-shadow: 0 10px 30px rgba(2,6,23,0.18);
+  border-right-color: rgba(0,0,0,0.08);
+}
+#sideNav.scrolled .nav-link {
+  color: #fff !important;
+}
+#sideNav.scrolled .navbar-brand span.d-none img.img-profile {
+  border-color: rgba(255,255,255,0.1);
+}
+
+/* Improve focus styles for accessibility */
+.nav-link:focus, .project-card:focus {
+  outline: 3px solid rgba(110,76,255,0.12);
+  outline-offset: 2px;
+}
+
 /* Experience Timeline Styles */
 .timeline {
     position: relative;
